@@ -1,0 +1,20 @@
+<?php
+return[
+'panel_title' => "প্রোফাইল",
+'profile_roll' => "রোল",
+'profile_email' => "ইমেল",
+'profile_dob' => "জন্ম তারিখ",
+'profile_jod' => "যোগদান তারিখ",
+'profile_sex' => "লিঙ্গ",
+'profile_religion' => "ধর্ম",
+'profile_phone' => "ফোন",
+'profile_address' => "ঠিকানা",
+'profile_guargian_name' => "অভিভাবক নাম",
+'profile_father_name' => "পিতার নাম",
+'profile_mother_name' => "মাতার নাম",
+'profile_father_profession' => "পিতার পেশা",
+'profile_mother_profession' => "মাতার পেশা",
+'parent_error' => "মাতাপিতা এখনো যোগ করা হয়নি! অনুগ্রহপূর্বক মাতাপিতার তথ্য যোগ করুন.",
+'personal_information' => "ব্যক্তিগত তথ্য",
+'parents_information' => "মাতাপিতা তথ্য",
+];

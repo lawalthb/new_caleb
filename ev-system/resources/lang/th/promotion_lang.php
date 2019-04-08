@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "การส่งเสริม",
+'add_title' => "เพิ่มโปรโมชั่น",
+'slno' => "#",
+'promotion_photo' => "ภาพถ่าย",
+'promotion_name' => "ชื่อ",
+'promotion_section' => "ส่วน",
+'promotion_result' => "ผล",
+'promotion_pass' => "ผ่าน",
+'promotion_fail' => "ล้มเหลว",
+'promotion_modarate' => "ยัง",
+'promotion_phone' => "โทรศัพท์",
+'promotion_classes' => "ชั้น",
+'promotion_roll' => "ม้วน",
+'promotion_create_class' => "โปรดสร้างคลาสใหม่",
+'promotion_select_class' => "เลือกระดับ",
+'promotion_select_student' => "เลือกนักศึกษา",
+'add_all_promotion' => "โปรโมชั่นทั้งหมด",
+'promotion_alert' => "เตือนภัย",
+'promotion_ok' => "ตกลง",
+'promotion_success' => "โปรโมชั่นที่ประสบความสำเร็จ",
+'promotion_emstudent' => "รายชื่อนักศึกษาที่ว่างเปล่า",
+'action' => "การกระทำ",
+'add_mark_setting' => "การตั้งค่าโปรโมชั่นมาร์ค",
+'add_promotion' => "โปรโมชั่นชั้นถัดไป",
+];

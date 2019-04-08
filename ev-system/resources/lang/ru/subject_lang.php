@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Предмет",
+'add_title' => "Добавить предмет",
+'slno' => "#",
+'subject_class_name' => "Имя класса",
+'subject_teacher_name' => "Имя учителя",
+'subject_student' => "Студент",
+'subject_name' => "Тема Имя",
+'subject_author' => "Тема Автор",
+'subject_code' => "Код объекта",
+'subject_teacher' => "Учитель",
+'subject_classes' => "Класс",
+'subject_select_class' => "Выберите класс",
+'subject_select_classes' => "Выберите класс",
+'subject_select_teacher' => "Выберите учителя",
+'subject_select_student' => "Выберите Студент",
+'action' => "Действие",
+'view' => "Вид",
+'edit' => "Редактировать",
+'delete' => "Удалить",
+'add_subject' => "Добавить тему",
+'update_subject' => "Обновление предметом",
+];

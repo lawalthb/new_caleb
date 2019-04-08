@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "学科",
+'add_title' => "添加一个主题",
+'slno' => "＃",
+'subject_class_name' => "类名称",
+'subject_teacher_name' => "老师的名字",
+'subject_student' => "学生",
+'subject_name' => "主题名称",
+'subject_author' => "主题作者",
+'subject_code' => "科目代码",
+'subject_teacher' => "教师",
+'subject_classes' => "类",
+'subject_select_class' => "选择类别",
+'subject_select_classes' => "选择类别",
+'subject_select_teacher' => "选择教师",
+'subject_select_student' => "选择学生",
+'action' => "行动",
+'view' => "视图",
+'edit' => "编辑",
+'delete' => "删除",
+'add_subject' => "添加主题",
+'update_subject' => "更新对象",
+];

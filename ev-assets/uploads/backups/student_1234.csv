@@ -1,0 +1,6 @@
+"id","name","email","reg_no","class_id","section_id","parent_id","dormitory_id","school_id","image","role","role_id","admin_type","birthday","gender","active","religion","bloodgroup","profession","address","phone","created_at","updated_at"
+"3","Ojo Kayode","student@student.com","EV20170001","1","1","2","1","1","sample.jpg","student","3","user","","","1","","","","Washington, USA","","2018-12-29 00:00:11","2018-12-29 00:00:11"
+"6","Sammy Brook","sammy@student.com","EV20180002","1","1","2","1","1","sample.jpg","student","3","user","","","1","","","","Michigan, USA","","2018-12-29 00:00:12","2018-12-29 00:00:12"
+"7","Jon Cameron","jon@student.com","EV20180003","1","1","2","1","1","sample.jpg","student","3","user","","","1","","","","Iowa, USA","","2018-12-29 00:00:12","2018-12-29 00:00:12"
+"8","Raven Sean","raven@student.com","EV20180004","1","1","2","1","1","sample.jpg","student","3","user","","","1","","","","Vegas, USA","","2018-12-29 00:00:12","2018-12-29 00:00:12"
+"9","Kelvin Ball","kelvin@student.com","EV20180005","1","1","2","1","1","sample.jpg","student","3","user","","","1","","","","Florida, USA","","2018-12-29 00:00:12","2018-12-29 00:00:12"

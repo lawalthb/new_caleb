@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Esame Presenze",
+'add_title' => "Aggiungi Presenze Esame",
+'slno' => "#",
+'eattendance_photo' => "Foto",
+'eattendance_name' => "Nome",
+'eattendance_email' => "Email",
+'eattendance_roll' => "Rotolo",
+'eattendance_phone' => "Telefono",
+'eattendance_attendance' => "Partecipazione",
+'eattendance_section' => "Sezione",
+'eattendance_exam' => "Esame",
+'eattendance_classes' => "Classe",
+'eattendance_subject' => "Soggetto",
+'eattendance_all_students' => "Tutti Gli Studenti",
+'eattendance_select_exam' => "Seleziona Exam",
+'eattendance_select_classes' => "Seleziona Classe",
+'eattendance_select_subject' => "Selezionare Oggetto",
+'action' => "Azione",
+'add_attendance' => "Partecipazione",
+'add_all_attendance' => "Aggiungi Tutto Presenze",
+'view_attendance' => "Vista Presenze",
+];

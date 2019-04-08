@@ -1,0 +1,23 @@
+<?php
+return[
+'panel_title' => "媒体",
+'add_title' => "创建文件夹",
+'slno' => "＃",
+'media_title' => "称号",
+'media_date' => "日期",
+'action' => "行动",
+'view' => "视图",
+'edit' => "编辑",
+'delete' => "删除",
+'add_class' => "添加媒体",
+'update_class' => "更新媒体",
+'file' => "媒体",
+'upload_file' => "媒体上传",
+'folder_name' => "文件夹名称",
+'share' => "共享",
+'share_with' => "与某人分享",
+'select_class' => "选择类",
+'all_class' => "所有类",
+'public' => "上市",
+'class' => "类",
+];

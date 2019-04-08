@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Subiect",
+'add_title' => "Adauga Un Subiect",
+'slno' => "#",
+'subject_class_name' => "Clasa Nume",
+'subject_teacher_name' => "Numele Profesor",
+'subject_student' => "Student",
+'subject_name' => "Subiect Nume",
+'subject_author' => "Subiect Autor",
+'subject_code' => "Subiect Cod",
+'subject_teacher' => "Profesor",
+'subject_classes' => "Clasă",
+'subject_select_class' => "Selectați Class",
+'subject_select_classes' => "Selectați Class",
+'subject_select_teacher' => "Selectați Profesor",
+'subject_select_student' => "Selectați Student",
+'action' => "Acțiune",
+'view' => "Vedere",
+'edit' => "Edita",
+'delete' => "Șterge",
+'add_subject' => "Adauga Subiect",
+'update_subject' => "Actualizare Subiect",
+];

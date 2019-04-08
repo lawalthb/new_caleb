@@ -1,0 +1,22 @@
+<?php
+return[
+'panel_title' => "لوحة القيادة",
+'dashboard_notice' => "إشعار",
+'dashboard_username' => "اسم المستخدم",
+'dashboard_email' => "البريد الإلكتروني",
+'dashboard_phone' => "هاتف",
+'dashboard_address' => "عنوان",
+'dashboard_libraryfee' => "رسوم المكتبة",
+'dashboard_transportfee' => "رسوم النقل",
+'dashboard_hostelfee' => "رسوم نزل",
+'dashboard_earning_graph' => "كسب الرسم البياني",
+'dashboard_notpaid' => "غير مدفوع",
+'dashboard_partially_paid' => "دفعت جزئيا",
+'dashboard_fully_paid' => "مدفوع بالكامل",
+'dashboard_cash' => "نقد",
+'dashboard_cheque' => "شيك",
+'dashboard_paypal' => "باي بال",
+'dashboard_stripe' => "شريط",
+'dashboard_sample' => "عينة",
+'view' => "عرض",
+];

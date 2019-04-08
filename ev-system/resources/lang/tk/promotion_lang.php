@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Tanıtım",
+'add_title' => "Promosyon Ekle",
+'slno' => "#",
+'promotion_photo' => "Fotoğraf",
+'promotion_name' => "Isim",
+'promotion_section' => "Bölüm",
+'promotion_result' => "Sonuç",
+'promotion_pass' => "Geçiş",
+'promotion_fail' => "Fail",
+'promotion_modarate' => "Henüz Değil",
+'promotion_phone' => "Telefon",
+'promotion_classes' => "Sınıf",
+'promotion_roll' => "Rulo",
+'promotion_create_class' => "Yeni Bir Sınıf Oluşturmak Lütfen",
+'promotion_select_class' => "Seçin Sınıf",
+'promotion_select_student' => "Seçin Öğrenci",
+'add_all_promotion' => "Tüm Promosyon",
+'promotion_alert' => "Uyanık",
+'promotion_ok' => "Tamam",
+'promotion_success' => "Promosyon Başarı",
+'promotion_emstudent' => "Boş Öğrenci Listesi",
+'action' => "Eylem",
+'add_mark_setting' => "Promosyon Mark Ayarı",
+'add_promotion' => "Sonraki Sınıf Için Promosyon",
+];

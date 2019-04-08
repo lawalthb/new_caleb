@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Mail / Sms Template",
+'add_title' => "Fügen Sie Eine Vorlage",
+'slno' => "#",
+'mailandsmstemplate_name' => "Name",
+'mailandsmstemplate_user' => "Benutzer",
+'mailandsmstemplate_tags' => "Schlagwörter",
+'mailandsmstemplate_template' => "Vorlage",
+'mailandsmstemplate_select_user' => "Wählen Sie Benutzer",
+'mailandsmstemplate_student' => "Schüler",
+'mailandsmstemplate_parents' => "Eltern",
+'mailandsmstemplate_teacher' => "Lehrer",
+'mailandsmstemplate_accountant' => "Buchhalter",
+'mailandsmstemplate_librarian' => "Bibliothekar",
+'mailandsmstemplate_type' => "Art",
+'mailandsmstemplate_select_type' => "Wählen Sie Art",
+'mailandsmstemplate_email' => "Email",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Wählen Sie Tag",
+'action' => "Aktion",
+'view' => "Ansicht",
+'edit' => "Bearbeiten",
+'delete' => "Löschen",
+'add_template' => "Vorlage Hinzufügen",
+'update_template' => "Update Template",
+];

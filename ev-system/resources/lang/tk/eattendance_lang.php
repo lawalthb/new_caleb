@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Sınav Seyirci",
+'add_title' => "Sınav Katılım Ekle",
+'slno' => "#",
+'eattendance_photo' => "Fotoğraf",
+'eattendance_name' => "Isim",
+'eattendance_email' => "E-posta",
+'eattendance_roll' => "Rulo",
+'eattendance_phone' => "Telefon",
+'eattendance_attendance' => "Katılım",
+'eattendance_section' => "Bölüm",
+'eattendance_exam' => "Sınav",
+'eattendance_classes' => "Sınıf",
+'eattendance_subject' => "Konu",
+'eattendance_all_students' => "Tüm Öğrenciler",
+'eattendance_select_exam' => "Seçin Sınavı",
+'eattendance_select_classes' => "Seçin Sınıf",
+'eattendance_select_subject' => "Konu Seçin",
+'action' => "Eylem",
+'add_attendance' => "Katılım",
+'add_all_attendance' => "Tüm Seyirci Ekle",
+'view_attendance' => "Görünüm Devam",
+];

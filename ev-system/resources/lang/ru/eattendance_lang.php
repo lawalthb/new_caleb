@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Экзамен Посещаемость",
+'add_title' => "Добавить посещаемость экзамен",
+'slno' => "#",
+'eattendance_photo' => "Фото",
+'eattendance_name' => "Имя",
+'eattendance_email' => "E-mail",
+'eattendance_roll' => "Рулон",
+'eattendance_phone' => "Телефон",
+'eattendance_attendance' => "Посещаемость",
+'eattendance_section' => "Раздел",
+'eattendance_exam' => "Экзамен",
+'eattendance_classes' => "Класс",
+'eattendance_subject' => "Предмет",
+'eattendance_all_students' => "Все студенты",
+'eattendance_select_exam' => "Выберите экзамен",
+'eattendance_select_classes' => "Выберите класс",
+'eattendance_select_subject' => "Выберите Тема",
+'action' => "Действие",
+'add_attendance' => "Посещаемость",
+'add_all_attendance' => "Добавить все Посещаемость",
+'view_attendance' => "Посмотреть Посещаемость",
+];

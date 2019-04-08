@@ -1,0 +1,21 @@
+<?php
+return[
+'panel_title' => "الكتب",
+'add_title' => "إضافة كتاب",
+'slno' => "#",
+'book_name' => "اسم",
+'book_subject_code' => "كود تخضع",
+'book_author' => "مؤلف",
+'book_price' => "السعر",
+'book_quantity' => "كمية",
+'book_rack_no' => "رف لا",
+'book_status' => "الحالة",
+'book_available' => "متاح",
+'book_unavailable' => "غير متاح",
+'action' => "عمل",
+'view' => "عرض",
+'edit' => "تحرير",
+'delete' => "حذف",
+'add_book' => "إضافة كتاب",
+'update_book' => "تحديث كتاب",
+];

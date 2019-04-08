@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "จดหมาย / Sms แม่แบบ",
+'add_title' => "เพิ่มแม่แบบ",
+'slno' => "#",
+'mailandsmstemplate_name' => "ชื่อ",
+'mailandsmstemplate_user' => "ผู้ใช้งาน",
+'mailandsmstemplate_tags' => "แท็ก",
+'mailandsmstemplate_template' => "แบบ",
+'mailandsmstemplate_select_user' => "เลือกผู้ใช้",
+'mailandsmstemplate_student' => "นักเรียน",
+'mailandsmstemplate_parents' => "พ่อแม่",
+'mailandsmstemplate_teacher' => "ครู",
+'mailandsmstemplate_accountant' => "นักบัญชี",
+'mailandsmstemplate_librarian' => "บรรณารักษ์",
+'mailandsmstemplate_type' => "ชนิด",
+'mailandsmstemplate_select_type' => "เลือกประเภท",
+'mailandsmstemplate_email' => "อีเมล์",
+'mailandsmstemplate_sms' => "ข้อความ",
+'mailandsmstemplate_select_tag' => "เลือกแท็ก",
+'action' => "การกระทำ",
+'view' => "ดู",
+'edit' => "แก้ไข",
+'delete' => "การลบ",
+'add_template' => "เพิ่ม Template",
+'update_template' => "แม่แบบการปรับปรุง",
+];

@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Продвижение",
+'add_title' => "Добавить продвижение",
+'slno' => "#",
+'promotion_photo' => "Фото",
+'promotion_name' => "Имя",
+'promotion_section' => "раздел",
+'promotion_result' => "Результат",
+'promotion_pass' => "Пасс",
+'promotion_fail' => "Провал",
+'promotion_modarate' => "Еще нет",
+'promotion_phone' => "Телефон",
+'promotion_classes' => "Класс",
+'promotion_roll' => "Рулон",
+'promotion_create_class' => "Пожалуйста! создайте новый класс",
+'promotion_select_class' => "Выберите класс",
+'promotion_select_student' => "Выберите Студент",
+'add_all_promotion' => "Все Продвижение",
+'promotion_alert' => "Тревога",
+'promotion_ok' => "Хорошо",
+'promotion_success' => "Продвижение Успех",
+'promotion_emstudent' => "Пусто Список Студент",
+'action' => "Действие",
+'add_mark_setting' => "Продвижение Марк Настройка",
+'add_promotion' => "Продвижение До следующего класса",
+];

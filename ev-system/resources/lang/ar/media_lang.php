@@ -1,0 +1,23 @@
+<?php
+return[
+'panel_title' => "وسائل الإعلام",
+'add_title' => "أنشئ مجلد",
+'slno' => "#",
+'media_title' => "عنوان",
+'media_date' => "تاريخ",
+'action' => "عمل",
+'view' => "عرض",
+'edit' => "تحرير",
+'delete' => "حذف",
+'add_class' => "إضافة وسائط",
+'update_class' => "وسائل الإعلام التحديث",
+'file' => "وسائل الإعلام",
+'upload_file' => "وسائل الإعلام تحميل",
+'folder_name' => "اسم المجلد",
+'share' => "حصة",
+'share_with' => "شارك مع",
+'select_class' => "حدد فئة",
+'all_class' => "كل فئة",
+'public' => "عامة",
+'class' => "فئة",
+];

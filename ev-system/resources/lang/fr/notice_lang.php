@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Avis",
+'add_title' => "Ajouter Un Avis",
+'slno' => "#",
+'notice_title' => "Titre",
+'notice_notice' => "Avis",
+'notice_date' => "Date",
+'action' => "Action",
+'view' => "Vue",
+'edit' => "Éditer",
+'delete' => "Effacer",
+'print' => "Impression",
+'pdf_preview' => "Aperçu Pdf",
+"mail" => "Envoyer Pdf Dans Mail",
+'add_class' => "Ajouter Avis",
+'update_class' => "Mise à Jour Avis",
+'to' => "À",
+'subject' => "Sujet",
+'message' => "Message",
+'send' => "Envoyer",
+'mail_to' => "Le Champ Pour Est Nécessaire.",
+'mail_valid' => "Le Champ Pour Doit Contenir Une Adresse Email Valide.",
+'mail_subject' => "Le Champ Objet Est Nécessaire.",
+'mail_success' => "Email Envoyer Avec Succès!",
+'mail_error' => "Oops! Email Pas Envoyer!",
+];

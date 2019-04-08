@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Posta / Sms Template",
+'add_title' => "Aggiungere Un Modello",
+'slno' => "#",
+'mailandsmstemplate_name' => "Nome",
+'mailandsmstemplate_user' => "Utente",
+'mailandsmstemplate_tags' => "Tag",
+'mailandsmstemplate_template' => "Modello",
+'mailandsmstemplate_select_user' => "Selezionare Utente",
+'mailandsmstemplate_student' => "Studente",
+'mailandsmstemplate_parents' => "Genitori",
+'mailandsmstemplate_teacher' => "Insegnante",
+'mailandsmstemplate_accountant' => "Ragioniere",
+'mailandsmstemplate_librarian' => "Bibliotecario",
+'mailandsmstemplate_type' => "Tipo",
+'mailandsmstemplate_select_type' => "Seleziona Tipo",
+'mailandsmstemplate_email' => "Email",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Selezionare Tag",
+'action' => "Azione",
+'view' => "Vista",
+'edit' => "Modifica",
+'delete' => "Cancellare",
+'add_template' => "Aggiungi Modello",
+'update_template' => "Aggiornamento Template",
+];

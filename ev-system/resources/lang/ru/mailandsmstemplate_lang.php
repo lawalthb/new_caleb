@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Почта / Sms шаблона",
+'add_title' => "Добавить шаблон",
+'slno' => "#",
+'mailandsmstemplate_name' => "Имя",
+'mailandsmstemplate_user' => "Пользователь",
+'mailandsmstemplate_tags' => "Ключевые слова",
+'mailandsmstemplate_template' => "Шаблон",
+'mailandsmstemplate_select_user' => "Выберите пользователя",
+'mailandsmstemplate_student' => "Студент",
+'mailandsmstemplate_parents' => "Родители",
+'mailandsmstemplate_teacher' => "Учитель",
+'mailandsmstemplate_accountant' => "Бухгалтер",
+'mailandsmstemplate_librarian' => "Библиотекарь",
+'mailandsmstemplate_type' => "Тип",
+'mailandsmstemplate_select_type' => "Выберите тип",
+'mailandsmstemplate_email' => "E-mail",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Выберите тегов",
+'action' => "Действие",
+'view' => "Вид",
+'edit' => "Редактировать",
+'delete' => "Удалить",
+'add_template' => "Добавить шаблон",
+'update_template' => "Шаблон Обновление",
+];

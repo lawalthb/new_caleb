@@ -1,0 +1,23 @@
+<?php
+return[
+'panel_title' => "মিডিয়া",
+'add_title' => "ফোল্ডার তৈরি করুন",
+'slno' => "#",
+'media_title' => "শিরোনাম",
+'media_date' => "তারিখ",
+'action' => "কর্ম",
+'view' => "দৃশ্য",
+'edit' => "সম্পাদন করা",
+'delete' => "মুছে দিন",
+'add_class' => "মিডিয়া যোগ করুন",
+'update_class' => "আপডেট মিডিয়া",
+'file' => "মিডিয়া",
+'upload_file' => "মিডিয়া আপলোড করুন",
+'folder_name' => "ফোল্ডারের নাম",
+'share' => "শেয়ার",
+'share_with' => "শেয়ার উইথ",
+'select_class' => "নির্বাচন ক্লাস",
+'all_class' => "সকল ক্লাস",
+'public' => "পাবলিক",
+'class' => "ক্লাস",
+];

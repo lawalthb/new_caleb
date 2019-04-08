@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Asistencia Examen",
+'add_title' => "Añadir Asistencia Examen",
+'slno' => "#",
+'eattendance_photo' => "Foto",
+'eattendance_name' => "Nombre",
+'eattendance_email' => "Email",
+'eattendance_roll' => "Rollo",
+'eattendance_phone' => "Teléfono",
+'eattendance_attendance' => "Asistencia",
+'eattendance_section' => "Sección",
+'eattendance_exam' => "Examen",
+'eattendance_classes' => "Clase",
+'eattendance_subject' => "Sujeto",
+'eattendance_all_students' => "Todos Los Estudiantes",
+'eattendance_select_exam' => "Seleccione Examen",
+'eattendance_select_classes' => "Seleccionar Clase",
+'eattendance_select_subject' => "Seleccionar Sujeto",
+'action' => "Acción",
+'add_attendance' => "Asistencia",
+'add_all_attendance' => "Agregar Todos Asistencia",
+'view_attendance' => "Ver Asistencia",
+];

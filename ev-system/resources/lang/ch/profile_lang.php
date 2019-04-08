@@ -1,0 +1,20 @@
+<?php
+return[
+'panel_title' => "轮廓",
+'profile_roll' => "滚",
+'profile_email' => "电子邮件",
+'profile_dob' => "出生日期",
+'profile_jod' => "加盟日期",
+'profile_sex' => "性别",
+'profile_religion' => "宗教",
+'profile_phone' => "电话",
+'profile_address' => "地址",
+'profile_guargian_name' => "监护人姓名",
+'profile_father_name' => "父亲的名字",
+'profile_mother_name' => "母亲的名字",
+'profile_father_profession' => "父亲的职业",
+'profile_mother_profession' => "母亲的职业",
+'parent_error' => "父母没有被添加的是，请加父母的信息。",
+'personal_information' => "个人信息",
+'parents_information' => "家长信息",
+];

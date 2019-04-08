@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Participarea Examen",
+'add_title' => "Adauga Examen Prezență",
+'slno' => "#",
+'eattendance_photo' => "Fotografie",
+'eattendance_name' => "Nume",
+'eattendance_email' => "Email",
+'eattendance_roll' => "Rulou",
+'eattendance_phone' => "Telefon",
+'eattendance_attendance' => "Prezență",
+'eattendance_section' => "Secțiune",
+'eattendance_exam' => "Examen",
+'eattendance_classes' => "Clasă",
+'eattendance_subject' => "Subiect",
+'eattendance_all_students' => "Toți Elevii",
+'eattendance_select_exam' => "Selectați Examen",
+'eattendance_select_classes' => "Selectați Class",
+'eattendance_select_subject' => "Selectați Subiect",
+'action' => "Acțiune",
+'add_attendance' => "Prezență",
+'add_all_attendance' => "Adauga Toate Participarea",
+'view_attendance' => "Vezi Participarea",
+];

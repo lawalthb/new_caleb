@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Promoción",
+'add_title' => "Añadir Promoción",
+'slno' => "#",
+'promotion_photo' => "Foto",
+'promotion_name' => "Nombre",
+'promotion_section' => "Sección",
+'promotion_result' => "Resultado",
+'promotion_pass' => "Pass",
+'promotion_fail' => "Fallar",
+'promotion_modarate' => "Aún No",
+'promotion_phone' => "Teléfono",
+'promotion_classes' => "Clase",
+'promotion_roll' => "Rollo",
+'promotion_create_class' => "Por Favor! Cree Una Nueva Clase",
+'promotion_select_class' => "Seleccionar Clase",
+'promotion_select_student' => "Seleccionar Estudiante",
+'add_all_promotion' => "Todo Promoción",
+'promotion_alert' => "Alerta",
+'promotion_ok' => "Ok",
+'promotion_success' => "El éxito De La Promoción",
+'promotion_emstudent' => "Lista De Estudiantes Vacío",
+'action' => "Acción",
+'add_mark_setting' => "Promoción Marcos Marco",
+'add_promotion' => "Promoción Para Siguiente Clase",
+];

@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "पदोन्नति",
+'add_title' => "पदोन्नति में जोड़ें",
+'slno' => "#",
+'promotion_photo' => "फ़ोटो",
+'promotion_name' => "नाम",
+'promotion_section' => "अनुभाग",
+'promotion_result' => "परिणाम",
+'promotion_pass' => "दर्रा",
+'promotion_fail' => "असफल",
+'promotion_modarate' => "अभी तक नहीं",
+'promotion_phone' => "फ़ोन",
+'promotion_classes' => "कक्षा",
+'promotion_roll' => "रोल",
+'promotion_create_class' => "एक नया वर्ग पैदा करें",
+'promotion_select_class' => "चयन करें क्लास",
+'promotion_select_student' => "चयन करें छात्र",
+'add_all_promotion' => "सभी संवर्धन",
+'promotion_alert' => "चेतावनी",
+'promotion_ok' => "ठीक",
+'promotion_success' => "संवर्धन सफलता",
+'promotion_emstudent' => "खाली छात्र की सूची",
+'action' => "कार्य",
+'add_mark_setting' => "पदोन्नति मार्क सेटिंग",
+'add_promotion' => "अगली कक्षा में प्रोन्नति",
+];

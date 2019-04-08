@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Promotion",
+'add_title' => "Ajouter Une Promotion",
+'slno' => "#",
+'promotion_photo' => "Photo",
+'promotion_name' => "Nom",
+'promotion_section' => "Section",
+'promotion_result' => "Résultat",
+'promotion_pass' => "Passe",
+'promotion_fail' => "Échouer",
+'promotion_modarate' => "Pas Encore",
+'promotion_phone' => "Téléphone",
+'promotion_classes' => "Classe",
+'promotion_roll' => "Rouleau",
+'promotion_create_class' => "S'il Vous Plaît Créer Une Nouvelle Classe",
+'promotion_select_class' => "Sélectionnez La Catégorie",
+'promotion_select_student' => "Choisir Étudiant",
+'add_all_promotion' => "Toutes Les Promotion",
+'promotion_alert' => "Alerte",
+'promotion_ok' => "D'accord",
+'promotion_success' => "Succès Des Promotions",
+'promotion_emstudent' => "Liste Des étudiants Vide",
+'action' => "Action",
+'add_mark_setting' => "Promotion Mark Cadre",
+'add_promotion' => "Promotion Pour Classe Suivant",
+];

@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Subyek",
+'add_title' => "Tambahkan Subjek",
+'slno' => "#",
+'subject_class_name' => "Nama Kelas",
+'subject_teacher_name' => "Nama Guru",
+'subject_student' => "Mahasiswa",
+'subject_name' => "Subyek Nama",
+'subject_author' => "Subjek Penulis",
+'subject_code' => "Kode Subjek",
+'subject_teacher' => "Guru",
+'subject_classes' => "Kelas",
+'subject_select_class' => "Pilih Kelas",
+'subject_select_classes' => "Pilih Kelas",
+'subject_select_teacher' => "Pilih Guru",
+'subject_select_student' => "Pilih Mahasiswa",
+'action' => "Tindakan",
+'view' => "Pandangan",
+'edit' => "Mengedit",
+'delete' => "Hapus",
+'add_subject' => "Tambahkan Subjek",
+'update_subject' => "Subjek Pembaruan",
+];

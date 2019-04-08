@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Promovare",
+'add_title' => "Adauga Promovare",
+'slno' => "#",
+'promotion_photo' => "Fotografie",
+'promotion_name' => "Nume",
+'promotion_section' => "Secțiune",
+'promotion_result' => "Rezultat",
+'promotion_pass' => "Pass",
+'promotion_fail' => "Eșua",
+'promotion_modarate' => "Inca Nu",
+'promotion_phone' => "Telefon",
+'promotion_classes' => "Clasă",
+'promotion_roll' => "Rulou",
+'promotion_create_class' => "Vă Rugăm Să Creați O Nouă Clasă",
+'promotion_select_class' => "Selectați Class",
+'promotion_select_student' => "Selectați Student",
+'add_all_promotion' => "Toate Promovare",
+'promotion_alert' => "Alerta",
+'promotion_ok' => "Bine",
+'promotion_success' => "Promovarea De Succes",
+'promotion_emstudent' => "Listă Student Gol",
+'action' => "Acțiune",
+'add_mark_setting' => "Promovarea Mark Setare",
+'add_promotion' => "Promovarea în Clasa Următoare",
+];

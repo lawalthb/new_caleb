@@ -1,0 +1,21 @@
+<?php
+return[
+'panel_title' => "বই",
+'add_title' => "একটি বই যোগ করুন",
+'slno' => "#",
+'book_name' => "নাম",
+'book_subject_code' => "বিষয় কোড",
+'book_author' => "লেখক",
+'book_price' => "মূল্য",
+'book_quantity' => "পরিমাণ",
+'book_rack_no' => "কোন রাক",
+'book_status' => "অবস্থা",
+'book_available' => "এখনো আছে",
+'book_unavailable' => "নেই",
+'action' => "কর্ম",
+'view' => "দৃশ্য",
+'edit' => "সম্পাদন করা",
+'delete' => "মুছে দিন",
+'add_book' => "বই যোগ করুন",
+'update_book' => "বই আপডেট করুন",
+];

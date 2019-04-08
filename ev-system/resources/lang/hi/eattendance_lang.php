@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "परीक्षा उपस्थिति",
+'add_title' => "परीक्षा उपस्थिति में जोड़ें",
+'slno' => "#",
+'eattendance_photo' => "फ़ोटो",
+'eattendance_name' => "नाम",
+'eattendance_email' => "ईमेल",
+'eattendance_roll' => "रोल",
+'eattendance_phone' => "फ़ोन",
+'eattendance_attendance' => "उपस्थिति",
+'eattendance_section' => "अनुभाग",
+'eattendance_exam' => "परीक्षा",
+'eattendance_classes' => "कक्षा",
+'eattendance_subject' => "विषय",
+'eattendance_all_students' => "सभी छात्र",
+'eattendance_select_exam' => "का चयन परीक्षा",
+'eattendance_select_classes' => "चयन करें क्लास",
+'eattendance_select_subject' => "चयन करें विषय",
+'action' => "कार्य",
+'add_attendance' => "उपस्थिति",
+'add_all_attendance' => "सभी उपस्थिति में जोड़ें",
+'view_attendance' => "देखें उपस्थिति",
+];

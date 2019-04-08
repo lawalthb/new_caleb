@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "विषय",
+'add_title' => "एक विषय जोड़",
+'slno' => "#",
+'subject_class_name' => "कक्षा का नाम",
+'subject_teacher_name' => "शिक्षक का नाम",
+'subject_student' => "छात्र",
+'subject_name' => "विषय नाम",
+'subject_author' => "विषय में लेखक",
+'subject_code' => "विषय कोड",
+'subject_teacher' => "अध्यापक",
+'subject_classes' => "कक्षा",
+'subject_select_class' => "चयन करें क्लास",
+'subject_select_classes' => "चयन करें क्लास",
+'subject_select_teacher' => "चयन करें शिक्षक",
+'subject_select_student' => "चयन करें छात्र",
+'action' => "कार्य",
+'view' => "देखें",
+'edit' => "संपादित करें",
+'delete' => "हटाना",
+'add_subject' => "विषय जोड़ने",
+'update_subject' => "अद्यतन विषय",
+];

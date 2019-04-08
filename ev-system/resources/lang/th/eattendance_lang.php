@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "ผู้เข้าร่วมการสอบ",
+'add_title' => "เพิ่มการเข้าร่วมการสอบ",
+'slno' => "#",
+'eattendance_photo' => "ภาพถ่าย",
+'eattendance_name' => "ชื่อ",
+'eattendance_email' => "อีเมล์",
+'eattendance_roll' => "ม้วน",
+'eattendance_phone' => "โทรศัพท์",
+'eattendance_attendance' => "การดูแลรักษา",
+'eattendance_section' => "ส่วน",
+'eattendance_exam' => "การสอบ",
+'eattendance_classes' => "ชั้น",
+'eattendance_subject' => "เรื่อง",
+'eattendance_all_students' => "นักเรียนทุกคน",
+'eattendance_select_exam' => "เลือกสอบ",
+'eattendance_select_classes' => "เลือกระดับ",
+'eattendance_select_subject' => "เลือกเรื่อง",
+'action' => "การกระทำ",
+'add_attendance' => "การดูแลรักษา",
+'add_all_attendance' => "เพิ่มการเข้าร่วมประชุมทั้งหมด",
+'view_attendance' => "ดูผู้เข้าร่วม",
+];

@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Sujet",
+'add_title' => "Ajouter Un Sujet",
+'slno' => "#",
+'subject_class_name' => "Nom De La Classe",
+'subject_teacher_name' => "Nom Enseignant",
+'subject_student' => "Étudiant",
+'subject_name' => "Nom Sujet",
+'subject_author' => "Sujet Auteur",
+'subject_code' => "Code De Sujet",
+'subject_teacher' => "Professeur",
+'subject_classes' => "Classe",
+'subject_select_class' => "Sélectionnez La Catégorie",
+'subject_select_classes' => "Sélectionnez La Catégorie",
+'subject_select_teacher' => "Sélectionnez Ce Professeur",
+'subject_select_student' => "Choisir Étudiant",
+'action' => "Action",
+'view' => "Vue",
+'edit' => "Éditer",
+'delete' => "Effacer",
+'add_subject' => "Ajouter Un Sujet",
+'update_subject' => "Mise à Jour De L'objet",
+];

@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Exam Teilnahme",
+'add_title' => "In Prüfungsbesuch",
+'slno' => "#",
+'eattendance_photo' => "Foto",
+'eattendance_name' => "Name",
+'eattendance_email' => "Email",
+'eattendance_roll' => "Rolle",
+'eattendance_phone' => "Telefon",
+'eattendance_attendance' => "Teilnahme",
+'eattendance_section' => "Abschnitt",
+'eattendance_exam' => "Prüfung",
+'eattendance_classes' => "Klasse",
+'eattendance_subject' => "Gegenstand",
+'eattendance_all_students' => "Alle Schüler",
+'eattendance_select_exam' => "Wählen Exam",
+'eattendance_select_classes' => "Select Class",
+'eattendance_select_subject' => "Wählen Sie Betreff",
+'action' => "Aktion",
+'add_attendance' => "Teilnahme",
+'add_all_attendance' => "Alles Hinzufügen Attendance",
+'view_attendance' => "Die Teilnahme Anzeigen",
+];

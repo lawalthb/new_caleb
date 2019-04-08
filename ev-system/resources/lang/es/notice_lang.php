@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Aviso",
+'add_title' => "Añadir Un Anuncio",
+'slno' => "#",
+'notice_title' => "Título",
+'notice_notice' => "Aviso",
+'notice_date' => "Fecha",
+'action' => "Acción",
+'view' => "Vista",
+'edit' => "Editar",
+'delete' => "Borrar",
+'print' => "Impresión",
+'pdf_preview' => "Vista Previa Del Pdf",
+"mail" => "Enviar Pdf Al Correo",
+'add_class' => "Añadir Aviso",
+'update_class' => "Notificación De Actualización",
+'to' => "A",
+'subject' => "Sujeto",
+'message' => "Mensaje",
+'send' => "Enviar",
+'mail_to' => "Se Requiere Que El Campo Para.",
+'mail_valid' => "El Campo Para Debe Contener Una Dirección De Correo Electrónico Válida.",
+'mail_subject' => "Se Requiere Que El Campo Asunto.",
+'mail_success' => "Correo Electrónico Enviar Con éxito!",
+'mail_error' => "¡uy! No Envía Por Correo Electrónico!",
+];

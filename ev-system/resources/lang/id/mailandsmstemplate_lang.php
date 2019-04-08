@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Mail / Sms Template",
+'add_title' => "Tambahkan Template",
+'slno' => "#",
+'mailandsmstemplate_name' => "Nama",
+'mailandsmstemplate_user' => "Pemakai",
+'mailandsmstemplate_tags' => "Tags",
+'mailandsmstemplate_template' => "Template",
+'mailandsmstemplate_select_user' => "Pilih Pengguna",
+'mailandsmstemplate_student' => "Mahasiswa",
+'mailandsmstemplate_parents' => "Orangtua",
+'mailandsmstemplate_teacher' => "Guru",
+'mailandsmstemplate_accountant' => "Akuntan",
+'mailandsmstemplate_librarian' => "Pustakawan",
+'mailandsmstemplate_type' => "Jenis",
+'mailandsmstemplate_select_type' => "Pilih Jenis",
+'mailandsmstemplate_email' => "Email",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Pilih Tag",
+'action' => "Tindakan",
+'view' => "Pandangan",
+'edit' => "Mengedit",
+'delete' => "Hapus",
+'add_template' => "Tambahkan Template",
+'update_template' => "Template Update",
+];

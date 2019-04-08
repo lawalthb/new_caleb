@@ -1,0 +1,22 @@
+<?php
+return[
+'panel_title' => "仪表盘",
+'dashboard_notice' => "通知",
+'dashboard_username' => "用户名",
+'dashboard_email' => "电子邮件",
+'dashboard_phone' => "电话",
+'dashboard_address' => "地址",
+'dashboard_libraryfee' => "库费",
+'dashboard_transportfee' => "运输费",
+'dashboard_hostelfee' => "宿费",
+'dashboard_earning_graph' => "收益图",
+'dashboard_notpaid' => "未支付",
+'dashboard_partially_paid' => "部分支付",
+'dashboard_fully_paid' => "缴足",
+'dashboard_cash' => "现金",
+'dashboard_cheque' => "支票",
+'dashboard_paypal' => "支付宝",
+'dashboard_stripe' => "条纹",
+'dashboard_sample' => "样本",
+'view' => "视图",
+];

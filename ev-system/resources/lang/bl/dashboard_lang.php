@@ -1,0 +1,22 @@
+<?php
+return[
+'panel_title' => "ড্যাশবোর্ড",
+'dashboard_notice' => "নোটিশ",
+'dashboard_username' => "ইউজারনেম",
+'dashboard_email' => "ইমেল",
+'dashboard_phone' => "ফোন",
+'dashboard_address' => "ঠিকানা",
+'dashboard_libraryfee' => "লাইব্রেরী ফি",
+'dashboard_transportfee' => "পরিবহন ফি",
+'dashboard_hostelfee' => "হোস্টেল ফি",
+'dashboard_earning_graph' => "আরনিং গ্রাফ",
+'dashboard_notpaid' => "পরিশোধ হয়নি",
+'dashboard_partially_paid' => "আংশিকভাবে পরিশোধ",
+'dashboard_fully_paid' => "সম্পূর্ণ পরিশোধ",
+'dashboard_cash' => "নগদ",
+'dashboard_cheque' => "চেক",
+'dashboard_paypal' => "পেপ্যাল",
+'dashboard_stripe' => "স্ট্রাইপ",
+'dashboard_sample' => "নমুনা",
+'view' => "দৃশ্য",
+];

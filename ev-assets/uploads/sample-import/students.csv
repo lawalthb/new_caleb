@@ -1,0 +1,6 @@
+name,email,password,gender,birthday,section_id,dormitory_id,image,class_id,reg_no,parent_id
+John Doe,student@student,password,male,12-02-17,1,1,sample2.jpg,1,12,1
+Johana Doe,student@student,password,male,12-02-17,1,1,sample.jpg,1,14,1
+Ojo Kayode,student@student,password,male,12-02-17,1,1,sample2.jpg,1,15,1
+Jane Doe,student@student,password,male,12-02-17,1,1,sample.jpg,1,16,1
+Callme Student,student@student,password,male,12-02-17,1,1,sample2.jpg,1,17,1

@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Mail / Sms Template",
+'add_title' => "Adăugați Un șablon",
+'slno' => "#",
+'mailandsmstemplate_name' => "Nume",
+'mailandsmstemplate_user' => "Utilizator",
+'mailandsmstemplate_tags' => "Tags",
+'mailandsmstemplate_template' => "Șablon",
+'mailandsmstemplate_select_user' => "Selectați Utilizator",
+'mailandsmstemplate_student' => "Student",
+'mailandsmstemplate_parents' => "Părinți",
+'mailandsmstemplate_teacher' => "Profesor",
+'mailandsmstemplate_accountant' => "Contabil",
+'mailandsmstemplate_librarian' => "Bibliotecar",
+'mailandsmstemplate_type' => "Tip",
+'mailandsmstemplate_select_type' => "Selectare Tip",
+'mailandsmstemplate_email' => "Email",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Selectați Tag",
+'action' => "Acțiune",
+'view' => "Vedere",
+'edit' => "Edita",
+'delete' => "Șterge",
+'add_template' => "Adauga șablon",
+'update_template' => "Actualizare Template",
+];

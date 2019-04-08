@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Posta / Sms Şablon",
+'add_title' => "Bir şablon Ekleme",
+'slno' => "#",
+'mailandsmstemplate_name' => "Isim",
+'mailandsmstemplate_user' => "Kullanıcı",
+'mailandsmstemplate_tags' => "Etiketler",
+'mailandsmstemplate_template' => "Şablon",
+'mailandsmstemplate_select_user' => "Kullanıcı Seç",
+'mailandsmstemplate_student' => "Öğrenci",
+'mailandsmstemplate_parents' => "Ebeveyn",
+'mailandsmstemplate_teacher' => "Öğretmen",
+'mailandsmstemplate_accountant' => "Muhasebeci",
+'mailandsmstemplate_librarian' => "Kütüphaneci",
+'mailandsmstemplate_type' => "Tip",
+'mailandsmstemplate_select_type' => "Seçin Türü",
+'mailandsmstemplate_email' => "E-posta",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Seçin Etiketi",
+'action' => "Eylem",
+'view' => "Görünüm",
+'edit' => "Düzenle",
+'delete' => "Silmek",
+'add_template' => "Şablon Ekle",
+'update_template' => "Güncelleme Şablon",
+];

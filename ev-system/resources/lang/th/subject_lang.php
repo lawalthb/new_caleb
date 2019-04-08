@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "เรื่อง",
+'add_title' => "เพิ่มเรื่อง",
+'slno' => "#",
+'subject_class_name' => "ชื่อชั้น",
+'subject_teacher_name' => "ชื่อครู",
+'subject_student' => "นักเรียน",
+'subject_name' => "ชื่อเรื่อง",
+'subject_author' => "ผู้เขียนเรื่อง",
+'subject_code' => "รหัสเรื่อง",
+'subject_teacher' => "ครู",
+'subject_classes' => "ชั้น",
+'subject_select_class' => "เลือกระดับ",
+'subject_select_classes' => "เลือกระดับ",
+'subject_select_teacher' => "เลือกครู",
+'subject_select_student' => "เลือกนักศึกษา",
+'action' => "การกระทำ",
+'view' => "ดู",
+'edit' => "แก้ไข",
+'delete' => "การลบ",
+'add_subject' => "เพิ่มเรื่อง",
+'update_subject' => "ปรับปรุงเรื่อง",
+];

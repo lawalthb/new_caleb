@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Correo Plantilla / Sms",
+'add_title' => "Añadir Una Plantilla",
+'slno' => "#",
+'mailandsmstemplate_name' => "Nombre",
+'mailandsmstemplate_user' => "Usuario",
+'mailandsmstemplate_tags' => "Etiquetas",
+'mailandsmstemplate_template' => "Modelo",
+'mailandsmstemplate_select_user' => "Seleccionar Usuario",
+'mailandsmstemplate_student' => "Estudiante",
+'mailandsmstemplate_parents' => "Padres",
+'mailandsmstemplate_teacher' => "Maestro",
+'mailandsmstemplate_accountant' => "Contador",
+'mailandsmstemplate_librarian' => "Bibliotecario",
+'mailandsmstemplate_type' => "Escribe",
+'mailandsmstemplate_select_type' => "Seleccionar Tipo",
+'mailandsmstemplate_email' => "Email",
+'mailandsmstemplate_sms' => "Sms",
+'mailandsmstemplate_select_tag' => "Seleccionar Etiqueta",
+'action' => "Acción",
+'view' => "Vista",
+'edit' => "Editar",
+'delete' => "Borrar",
+'add_template' => "Añadir Plantilla",
+'update_template' => "Plantilla De Actualización",
+];

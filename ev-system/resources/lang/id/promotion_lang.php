@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Promosi",
+'add_title' => "Tambahkan Promosi",
+'slno' => "#",
+'promotion_photo' => "Foto",
+'promotion_name' => "Nama",
+'promotion_section' => "Bagian",
+'promotion_result' => "Hasil",
+'promotion_pass' => "Lulus",
+'promotion_fail' => "Gagal",
+'promotion_modarate' => "Belum",
+'promotion_phone' => "Telepon",
+'promotion_classes' => "Kelas",
+'promotion_roll' => "Gulungan",
+'promotion_create_class' => "Harap Membuat Kelas Baru",
+'promotion_select_class' => "Pilih Kelas",
+'promotion_select_student' => "Pilih Mahasiswa",
+'add_all_promotion' => "Semua Promosi",
+'promotion_alert' => "Waspada",
+'promotion_ok' => "Oke",
+'promotion_success' => "Sukses Promosi",
+'promotion_emstudent' => "Kosong Daftar Mahasiswa",
+'action' => "Tindakan",
+'add_mark_setting' => "Promosi Mark Pengaturan",
+'add_promotion' => "Promosi Untuk Kelas Berikutnya",
+];

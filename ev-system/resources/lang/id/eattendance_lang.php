@@ -1,0 +1,25 @@
+<?php
+return[
+
+'panel_title' => "Ujian Kehadiran",
+'add_title' => "Tambahkan Hadir Ujian",
+'slno' => "#",
+'eattendance_photo' => "Foto",
+'eattendance_name' => "Nama",
+'eattendance_email' => "Email",
+'eattendance_roll' => "Gulungan",
+'eattendance_phone' => "Telepon",
+'eattendance_attendance' => "Kehadiran",
+'eattendance_section' => "Bagian",
+'eattendance_exam' => "Ujian",
+'eattendance_classes' => "Kelas",
+'eattendance_subject' => "Subyek",
+'eattendance_all_students' => "Semua Siswa",
+'eattendance_select_exam' => "Pilih Ujian",
+'eattendance_select_classes' => "Pilih Kelas",
+'eattendance_select_subject' => "Pilih Jurusan",
+'action' => "Tindakan",
+'add_attendance' => "Kehadiran",
+'add_all_attendance' => "Tambahkan Semua Kehadiran",
+'view_attendance' => "Lihat Kehadiran",
+];

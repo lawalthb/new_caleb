@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Avviso",
+'add_title' => "Aggiungi Un Avviso",
+'slno' => "#",
+'notice_title' => "Titolo",
+'notice_notice' => "Avviso",
+'notice_date' => "Data",
+'action' => "Azione",
+'view' => "Vista",
+'edit' => "Modifica",
+'delete' => "Cancellare",
+'print' => "Stampa",
+'pdf_preview' => "Anteprima Pdf",
+"mail" => "Invia Pdf A Mail",
+'add_class' => "Aggiungi Notice",
+'update_class' => "Nota Di Aggiornamento",
+'to' => "A",
+'subject' => "Soggetto",
+'message' => "Messaggio",
+'send' => "Inviare",
+'mail_to' => "È Necessario Il Campo To.",
+'mail_valid' => "Il Campo Per Deve Contenere Un Indirizzo Email Valido.",
+'mail_subject' => "È Necessario Il Campo Oggetto.",
+'mail_success' => "Email Inviare Con Successo!",
+'mail_error' => "Oops! E-mail Non Inviare!",
+];

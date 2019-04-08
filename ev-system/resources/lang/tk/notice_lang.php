@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Ihbar",
+'add_title' => "Bir Uyarı Ekle",
+'slno' => "#",
+'notice_title' => "Başlık",
+'notice_notice' => "Ihbar",
+'notice_date' => "Tarih",
+'action' => "Eylem",
+'view' => "Görünüm",
+'edit' => "Düzenle",
+'delete' => "Silmek",
+'print' => "Baskı",
+'pdf_preview' => "Pdf Preview",
+"mail" => "Mail Pdf Gönder",
+'add_class' => "Uyarı Ekle",
+'update_class' => "Güncelleme Bildirimi",
+'to' => "Için",
+'subject' => "Konu",
+'message' => "Mesaj",
+'send' => "Göndermek",
+'mail_to' => "To Alan Gereklidir.",
+'mail_valid' => "To Alanı Geçerli Bir E-posta Adresi Içermelidir.",
+'mail_subject' => "Konu Alanı Gereklidir.",
+'mail_success' => "E-posta Başarıyla Göndermek",
+'mail_error' => "Ayyy! E-posta Göndermek Değil!",
+];

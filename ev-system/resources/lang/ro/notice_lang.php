@@ -1,0 +1,28 @@
+<?php
+return[
+
+'panel_title' => "Înștiințare",
+'add_title' => "Adaugă Un Anunț",
+'slno' => "#",
+'notice_title' => "Titlu",
+'notice_notice' => "Înștiințare",
+'notice_date' => "Data",
+'action' => "Acțiune",
+'view' => "Vedere",
+'edit' => "Edita",
+'delete' => "Șterge",
+'print' => "Imprimare",
+'pdf_preview' => "Pdf Previzualizare",
+"mail" => "Trimite Pdf La Mail",
+'add_class' => "Adauga Notice",
+'update_class' => "Actualizare Notice",
+'to' => "La",
+'subject' => "Subiect",
+'message' => "Mesaj",
+'send' => "Trimite",
+'mail_to' => "Este Nevoie Câmpurile Către.",
+'mail_valid' => "Câmpul A Trebuie Să Conțină O Adresă De E-mail Validă.",
+'mail_subject' => "Este Necesar Subiect Domeniu.",
+'mail_success' => "Email Trimite Cu Succes!",
+'mail_error' => "Oops! E-mail Nu Trimite!",
+];
